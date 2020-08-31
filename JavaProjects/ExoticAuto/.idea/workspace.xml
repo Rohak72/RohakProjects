@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1d96250-9455-4fa2-8436-54538e201daf" name="Default Changelist" comment="" />
+    <list default="true" id="b1d96250-9455-4fa2-8436-54538e201daf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExoticAuto/META-INF/ExoticAuto.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ExoticAuto/com/pluralsight/getorganized/Hangman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ExoticAuto/com/pluralsight/getorganized/Hangman.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +19,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1fBkcCjZCNA2B4Xzkp7I5Zs8slg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -73,30 +83,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="89" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598843439186" />
-    <state width="1237" height="280" key="GridCell.Tab.0.bottom" timestamp="1598902226150">
+    <state width="1237" height="280" key="GridCell.Tab.0.bottom" timestamp="1598905977291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="280" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598902226150" />
-    <state width="1237" height="280" key="GridCell.Tab.0.center" timestamp="1598902226149">
+    <state width="1237" height="280" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598905977291" />
+    <state width="1237" height="280" key="GridCell.Tab.0.center" timestamp="1598905977291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="280" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598902226149" />
-    <state width="1237" height="280" key="GridCell.Tab.0.left" timestamp="1598902226147">
+    <state width="1237" height="280" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598905977291" />
+    <state width="1237" height="280" key="GridCell.Tab.0.left" timestamp="1598905977291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="280" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598902226147" />
-    <state width="1237" height="280" key="GridCell.Tab.0.right" timestamp="1598902226149">
+    <state width="1237" height="280" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598905977291" />
+    <state width="1237" height="280" key="GridCell.Tab.0.right" timestamp="1598905977291">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="280" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598902226149" />
+    <state width="1237" height="280" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598905977291" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1598723185791">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598723185791" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1598720519196">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1598906843860">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1598720519196" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1598906843860" />
     <state x="348" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1595700975193">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
